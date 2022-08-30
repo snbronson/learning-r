@@ -8,8 +8,8 @@ library(arrow)
 library(tictoc)
 
 ## Load Helper Scripts ####
-source("code/-Global-Parameters.R")
-#source("src/utils.R")
+source("_Global Parameters.R")
+#source("utils.R")
 
 # LOG INTO WRDS ##############################################################
 
