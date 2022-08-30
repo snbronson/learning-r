@@ -7,10 +7,10 @@
 # RESOURCES
 WRDS has fantastic resources to get started using R with their data. 
 
-[R: From Your Computer )(RStudio)](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-r/r-from-your-computer/)
+[R: From Your Computer (RStudio)](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-r/r-from-your-computer/)  
 Explains how to install and configure RStudio to connect to WRDS.
 
-[Querying WRDS Data using R](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-r/querying-wrds-data-r/)
+[Querying WRDS Data using R](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-r/querying-wrds-data-r/)  
 Explains how to run SQL queries to:
 - list available tables in WRDS,
 - see the columns in a particular table,
