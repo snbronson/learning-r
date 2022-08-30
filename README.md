@@ -4,7 +4,7 @@
 # WARNING
 ⚠️ Explore at your own risk... I am one step above clueless when it comes to R!
 
-# RESOURCES
+# WRDS Resources
 WRDS has fantastic resources to get started using R with their data. 
 
 [R: From Your Computer (RStudio)](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-r/r-from-your-computer/)  
