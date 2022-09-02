@@ -16,6 +16,3 @@ Explains how to run SQL queries to:
 - see the columns in a particular table,
 - pull data from a particular table, and
 - join multiple tables.
-
-# R Resources
-[R For Data Science](https://r4ds.had.co.nz/)
