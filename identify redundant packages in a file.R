@@ -9,5 +9,5 @@ if (!require("NCmisc")) install.packages("NCmisc")
 library(NCmisc)
 
 # RUN list.functions.in.file ##################################################
-p <- NCmisc::list.functions.in.file("~/path/filename.R")
+p <- NCmisc::list.functions.in.file("~/GitHub/stem-gcm/code/prepare the data for DEFAULT coding.R")
 summary(p)

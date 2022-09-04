@@ -4,7 +4,7 @@
 # the following line creates a .Renviron file  
 usethis::edit_r_environ('project')
 # include the following in the .Renviron file then save and close
-#DATA_PATH = "~/OneDrive - University of Kansas/PROJECT/DATA"
+#DATA_PATH = "~/PROJECT/DATA"
 
 ## Load DATA_PATH #############################################################
 # this uses the path from the .Renviron file
