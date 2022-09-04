@@ -4,6 +4,9 @@
 # WARNING
 ⚠️ Explore at your own risk... I am one step above clueless when it comes to R!
 
+# General R Resources
+[R For Data Science](https://r4ds.had.co.nz/)
+
 # WRDS Resources
 WRDS has fantastic resources to get started using R with their data. 
 
