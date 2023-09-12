@@ -7,6 +7,8 @@
 # General R Resources
 [R For Data Science](https://r4ds.had.co.nz/)
 
+[Empirical Research in Accounting: Tools and Methods](http://iangow.me/far_book/)
+
 # WRDS Resources
 WRDS has fantastic resources to get started using R with their data. 
 
