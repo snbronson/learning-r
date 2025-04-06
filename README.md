@@ -21,3 +21,16 @@ Explains how to run SQL queries to:
 - see the columns in a particular table,
 - pull data from a particular table, and
 - join multiple tables.
+
+# [Quarto](quarto.org) Resources
+
+[Quarto Cheatsheet](https://rstudio.github.io/cheatsheets/quarto.pdf)
+
+# Other Resources to Explore
+
+🤔 I am still trying to figure out how these fit in the big picture:
+- ➡️ [tidymodels.org](https://www.tidymodels.org)
+- [posit.co](https://posit.co)
+- [RStudio Cheatsheets](https://rstudio.github.io/cheatsheets/)
+
+
