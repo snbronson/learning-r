@@ -29,8 +29,8 @@ Explains how to run SQL queries to:
 # Other Resources to Explore
 
 🤔 I am still trying to figure out how these fit in the big picture:
-- ➡️ [tidymodels.org](https://www.tidymodels.org)
-- [posit.co](https://posit.co)
-- [RStudio Cheatsheets](https://rstudio.github.io/cheatsheets/)
+➡️ [tidymodels.org](https://www.tidymodels.org)
+➡️[posit.co](https://posit.co)
+➡️ [RStudio Cheatsheets](https://rstudio.github.io/cheatsheets/)
 
 
